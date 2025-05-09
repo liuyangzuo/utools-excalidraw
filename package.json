@@ -14,7 +14,7 @@
     "pack-ext": "node scripts/pack.js"
   },
   "dependencies": {
-    "@excalidraw/excalidraw": "0.17.1-c0b80a0",
+    "@excalidraw/excalidraw": "0.18.0",
     "@headlessui/react": "^2.1.2",
     "@heroicons/react": "^1.0.6",
     "clsx": "^2.1.0",
